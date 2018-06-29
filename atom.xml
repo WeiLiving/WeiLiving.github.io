@@ -18,6 +18,24 @@
   
   <entry>
     <title>Welcome to my first blog</title>
+    <link href="http://yoursite.com/2018/06/29/my-first%20-%20%E5%89%AF%E6%9C%AC/"/>
+    <id>http://yoursite.com/2018/06/29/my-first - 副本/</id>
+    <published>2018-06-29T09:04:40.510Z</published>
+    <updated>2018-06-29T07:57:42.261Z</updated>
+    
+    <content type="html"><![CDATA[<p>hello<br><a id="more"></a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;hello&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Welcome to my first blog</title>
     <link href="http://yoursite.com/2018/06/26/my-first/"/>
     <id>http://yoursite.com/2018/06/26/my-first/</id>
     <published>2018-06-26T07:30:14.970Z</published>
